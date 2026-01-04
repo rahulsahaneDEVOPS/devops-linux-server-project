@@ -1,0 +1,7 @@
+*/30 * * * * top -b -n 1 >> /var/log/system-monitoring/top_processes_2026-01-03_23-47-52.log
+*/30 * * * * df -h >> /var/log/system-monitoring/disk_usage_2026-01-03.log
+
+0 0 * * 2 /usr/local/bin/apache_backup.sh
+0 0 * * 2 /usr/local/bin/nginx_backup.sh
+
+

@@ -1,0 +1,201 @@
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  488K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  512K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  504K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  504K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  504K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M   16K  459M   1% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  496K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  496K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  496K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  496K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  496K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  496K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  496K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  496K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  496K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  496K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  496K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  496K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  496K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  496K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  496K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  496K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  496K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  496K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  496K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             459M     0  459M   0% /dev/shm
+tmpfs             184M  524K  183M   1% /run
+/dev/nvme0n1p1    8.0G  2.4G  5.6G  30% /
+tmpfs             459M     0  459M   0% /tmp
+/dev/nvme0n1p128   10M  1.4M  8.7M  14% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/0
+tmpfs              92M     0   92M   0% /run/user/1000

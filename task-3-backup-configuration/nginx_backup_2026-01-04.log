@@ -1,0 +1,15 @@
+tar: Removing leading `/' from member names
+/etc/nginx/
+/etc/nginx/conf.d/
+/etc/nginx/conf.d/php-fpm.conf
+tar: Removing leading `/' from hard link targets
+/etc/nginx/default.d/
+/etc/nginx/default.d/php.conf
+/usr/share/nginx/html/
+---- Backup Verification ----
+etc/nginx/
+etc/nginx/conf.d/
+etc/nginx/conf.d/php-fpm.conf
+etc/nginx/default.d/
+etc/nginx/default.d/php.conf
+usr/share/nginx/html/
